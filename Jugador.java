@@ -8,4 +8,5 @@ public class Jugador {
         this.nombre = nombre;
         this.ficha = ficha;
     }
+    // oierhjfohwergkhjewikrj
 }
